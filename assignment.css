@@ -1,0 +1,59 @@
+
+.logo {
+    left: 100px;
+    
+}
+.wrap  {
+    width: 30%;
+    position: absolute;
+    left: 1000px;
+    top: 25px;
+  
+}
+.text {
+    width: 100%;
+    position: absolute;
+    left: 200px;
+    top: 25px;
+    color: red;
+    
+}
+.text1 {
+    width: 100%;
+    position: absolute;
+    left: 250px;
+    top: 60px;
+    color: blue;
+}
+.search {
+    background-color: rgb(245, 232, 190);
+    border: none;
+}
+.text-nav > li {
+    display: inline-block;
+    
+  }
+  .text-nav a{
+    text-decoration: none;
+    color: white;
+    
+  }
+  
+  .container  {
+    display: flex; 
+    height: 50px;
+    color: white ;
+    background-color: #2e57c7;
+    right: 0;
+    left: 0px ;
+    top: 0;
+    box-shadow: 0 0 5px #000000; 
+    text-transform: uppercase; /* chữ in hoa*/
+    text-align: center;
+   
+
+  }
+  .container a:hover {
+    text-decoration: none;
+    color: yellow;   
+  }
