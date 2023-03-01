@@ -1,0 +1,55 @@
+*{
+    position: relative;
+}
+.return{
+    text-decoration: none;
+    background-color: rgb(14, 146, 117);
+    color: rgb(255, 255, 255) ;
+    padding: 5px;
+    margin: 10px ;
+    border-radius: 15px;
+}
+.return:hover{
+    background-color: rgb(79, 64, 218);
+}
+.login {
+    width: 700px;
+    height: 650px;
+    border-radius:10px ;
+    box-shadow: 0 0 6px gray;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    max-width: 960px;
+    margin: 0 auto;   
+}
+
+.container {
+    padding: 15px;
+}
+.TT{
+    font-size: 15px;
+    padding: 4px;
+    margin: 0 0 10px;
+    border-radius: 5px;
+}
+.T1{
+    font-size: 30px;
+    padding: 4px;
+    margin: 0 0 10px;
+    border-radius: 5px;
+}
+
+.submit1{
+    background-color: rgb(88, 165, 114);
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 5px;
+    border-radius: 6px;
+}
+.submit1:hover {
+    background-color: rgb(62, 164, 233);
+    
+}
+
+
